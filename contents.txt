@@ -1,0 +1,12 @@
+hhg - hitch hiker's guide.  discussion of how to go about writing the thing.
+
+block 0 - first stab at an outline for sharing.  intended to stabilize as an outline
+
+block 1 - not yet built.  generic pacs/panel version.
+block 1.1 - reserved for vendor-specific variant
+block 1.2 - reserved for vendor-specific variant
+
+block 2 - not yet built.  generic vms/camera version.
+block 2.1
+block 2.2
+
